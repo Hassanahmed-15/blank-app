@@ -1,7 +1,8 @@
 streamlit
 openai
+python-docx
+PyPDF2
+python-pptx
 pandas
 matplotlib
-pyPDF2
-pillow
 fcsparser
