@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+matplotlib
+pyPDF2
+pillow
+fcsparser
